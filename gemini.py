@@ -1,6 +1,6 @@
 """
-Author: Bisnu Ray
-Telegram: https://t.me/SmartBisnuBio
+Author: ....
+Telegram: https://t.me/@SR7_BlackBird
 """
 
 import os
